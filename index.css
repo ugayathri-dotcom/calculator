@@ -15,6 +15,15 @@ body
   align-items: center;
   justify-content: center;
 }
+h4{
+  font-variant: small-caps;
+  text-align: center;
+  padding: 0;
+  margin: 1px 1px;
+  color: white;
+  border-radius: 6px;
+}
+
 
 .calc
 {
